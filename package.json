@@ -1,0 +1,20 @@
+{
+  "name": "ftp_converter",
+  "version": "1.0.0",
+  "description": "Nos ayudará a convertir el JSON de FTP a los proyectos de gammafp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^3.0.1",
+    "figlet": "^1.2.4",
+    "fs-extra": "^8.1.0",
+    "inquirer": "^7.0.0",
+    "ora": "^3.4.0"
+  }
+}
